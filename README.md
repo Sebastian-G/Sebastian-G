@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ## Skills
 
-![FE Skills](https://skillicons.dev/icons?i=angular,react,vue,nextjs,ts,js,html,css,scss,jest,graphql)  
-![BE+Cloud Skills](https://skillicons.dev/icons?i=java,kotlin,docker,kubernetes,aws,azure,jenkins)
+![FE Skills](https://skillicons.dev/icons?i=angular,react,vue,nextjs,ts,js,html,css,scss,jest,graphql,figma)  
+![BE+Cloud Skills](https://skillicons.dev/icons?i=java,kotlin,docker,kubernetes,aws,azure,jenkins,openshift)
 
 ## Social
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sebastian-graef/) 
