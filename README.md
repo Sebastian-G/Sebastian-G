@@ -1,8 +1,9 @@
 # Hello, I'm Sebastian 👋
 
-Senior Software Engineer at [Novatec Consulting GmbH](https://www.novatec-gmbh.de) working on ✨ _amazing_ ✨ customer projects.
-- Currently not active contributing on **Open Source** projects.
-- I'm mostly active within the **Angular** and **TypeScript** communities.
+Consultant at [Consid GmbH](https://consid.com) working on ✨ _amazing_ ✨ customer projects.
+- 💬 Ask me about the [Google Developer Group Stuttgart](https://gdg.community.dev/gdg-stuttgart/) (as organizer)
+- 🔭 Currently not active contributing on **Open Source** projects.
+- 🌱 I'm mostly active within the **Angular** and **TypeScript** communities.
 
 <!--
 **Sebastian-G/Sebastian-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,14 +20,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Sebastian-G&show_icons=true&hide_border=true) | ![GitHub Langs Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian-G&layout=compact&hide_border=true) |
-| ------------- | ------------- |
-
 ## Skills
 
-![FE Skills](https://skillicons.dev/icons?i=angular,react,vue,nextjs,ts,js,html,css,scss,jest,graphql,figma)  
-![BE+Cloud Skills](https://skillicons.dev/icons?i=java,kotlin,docker,kubernetes,aws,azure,jenkins,openshift)
+![FE Skills](https://skills.syvixor.com/api/icons?perline=15&i=angular,react,nextjs,ts,js,html,css,vite,vitest,playwright,figma)  
+![BE Skills](https://skills.syvixor.com/api/icons?perline=15&i=kotlin,java,python,spring,gradle,mongodb,postgresql,nodejs,junit5)  
+![Cloud Skills](https://skills.syvixor.com/api/icons?perline=15&i=docker,kubernetes,aws,azure,gcp,terraform,keycloak)  
+![AI Skills](https://skills.syvixor.com/api/icons?perline=15&i=ollama,huggingface,chatgpt,gemini,githubcopilot,comfyui)
 
-## Social
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sebastian-graef/) 
-[![mastodon](https://skillicons.dev/icons?i=mastodon)](https://techhub.social/@graef)
+## 📫 How to reach me:
+
+[![linkedin](https://skills.syvixor.com/api/icons?i=linkedin)](https://www.linkedin.com/in/sebastian-graef/) 
+[![bluesky](https://skills.syvixor.com/api/icons?i=bluesky)](https://bsky.app/profile/sebastian-graef.bsky.social) 
+[![mastodon](https://skills.syvixor.com/api/icons?i=mastodon)](https://techhub.social/@graef)
